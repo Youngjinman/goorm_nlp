@@ -1,1 +1,1 @@
-# goorm_nlp
+# goorm_nlplecture_note & projects
